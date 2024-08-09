@@ -1,0 +1,26 @@
+.nav {
+  background-color: rgb(0, 232, 0);
+  font-size: 22px;
+  color: white;
+  font-weight: bold;
+}
+
+.nav.title {
+  font-size: 60px;
+  padding: 10px;
+  padding-left: 20px;
+}
+
+.list {
+  font-size: 32px;
+  color: rgb(68, 193, 255);
+}
+
+.list .pd {
+  padding-top: 10px;
+  padding-left: 20px;
+}
+
+.list .text {
+  color: rgb(58, 216, 255);
+}
